@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.2.0/6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c/okhttp-urlconnection-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.2.0-a1348366f5d621773adc3e1d862d624bd5d27ab5.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0-d53b7d6d76bbcf9705e09f0c004a03b62b558194.jar" />
+    </item>
+    <item
+        jar="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.30.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0bbd1350ccbd98c0648b9a8bd1242233847886ba">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-d0ca5ae9c734351eed4549c37c1dd78c8e458529.jar" />
+    </item>
+    <item
+        jar="/home/janaka/AndroidSDK/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-fb80ac040e8a3cad9a00e318ff2bcab0ef81fae4.jar" />
+    </item>
+    <item
+        jar="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/classes-78cb9ed7255c4c72bd1a694ed1cb746c880ea784.jar" />
+    </item>
+    <item
+        jar="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/classes-5d2559cfd8ddd3053e024fc5d62e0ba053c6b0c2.jar" />
+    </item>
+    <item
+        jar="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/exploded-aar/com.airbnb.android/react-native-maps/0.7.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="125bff7ce0591eb9f362830b6a8c2a3fa606cab9">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/classes-02b0c718ab54c2721f45f7a37061dbd988bab0f4.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/okio-1.8.0-4a0682afcf73df6f253e7d8add600870acc39aad.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-456beae1bfbef6196546d4c957b5e9b726c256ac.jar" />
+    </item>
+    <item
+        jar="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/classes-9b1276a68883b116613da846a5fe079145e8451e.jar" />
+    </item>
+    <item
+        jar="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-28f511bff14cbdc4a4e27b055e1a5ea999219b59.jar" />
+    </item>
+    <item
+        jar="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/classes-64fd1953a7a5e85276420f3b155ce747fab72cad.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-966625304e7208badec13abab7a99ab1be33bd6f.jar" />
+    </item>
+    <item
+        jar="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/classes-37f53f7cac5faae47171de6f5d63347f04ddfbf8.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-8cb1dcf68d89b3835f6b8620276bad0ce2e75a94.jar" />
+    </item>
+    <item
+        jar="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/classes-a018b33ef8193c1b476783612e6a032b87775538.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.2.0/1ea229d6984444c8c58b8e97ba4c8429d9d135b3/okhttp-ws-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ea229d6984444c8c58b8e97ba4c8429d9d135b3">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.2.0-c938a8e9532429a0f5de9973968e3f01d0f101f0.jar" />
+    </item>
+    <item
+        jar="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/classes-a8f43538b12a60435a0a25300bc75e7fc7dddb9e.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-a77e21376e97001389b272835eb25fdac07102f2.jar" />
+    </item>
+    <item
+        jar="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.30.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b3e583f69ed6ccd7cc7f5fe75e41464ffafb8e17">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/classes-54fcb81bac63b0b45c660ac15c609b1325733724.jar" />
+    </item>
+    <item
+        jar="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/classes-e023df9999bbe9efb693933cd6699a80d633872e.jar" />
+    </item>
+    <item
+        jar="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/classes-983f1386d60c8d029416f9fb98eb073d0ea3e25f.jar" />
+    </item>
+    <item
+        jar="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/classes-5c185f6bc7aabef881b786025b31389f3335175e.jar" />
+    </item>
+    <item
+        jar="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/classes-bb5618baaecd4028ceb3e2e64a140661d07d162f.jar" />
+    </item>
+    <item
+        jar="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/janaka/my_projects/react_native/test_airbnb_map/android/app/build/intermediates/pre-dexed/debug/classes-a08662c889050581cba165f24fd46379443fe3d0.jar" />
+    </item>
+
+</items>
